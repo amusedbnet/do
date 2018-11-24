@@ -1,4 +1,4 @@
-## Omotenashi coin Project.
+## coin Project.
 
   
 | Left align | Right align | Center align |
